@@ -1,0 +1,30 @@
+.container {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .home__hero-row {
+    align-items: center;
+  }
+  
+  .row {
+    display: flex;
+    margin-right: -15px;
+    margin-bottom: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap;
+    align-content: stretch;
+  }
+
+  .home__hero-text-wrap {
+    max-width: 1000px;
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+
+  .home__hero-subtitle {
+    max-width: 3000px;
+    margin-bottom: 35px;
+    font-size: 15px;
+    line-height: 24px;
+  }

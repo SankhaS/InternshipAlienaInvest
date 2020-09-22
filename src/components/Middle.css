@@ -1,0 +1,156 @@
+.home__hero-section {
+    color: #fff;
+    padding: 160px 0;
+  }
+  
+  .home__hero-row {
+    align-items: center;
+  }
+  
+  .row {
+    display: flex;
+    margin-right: -15px;
+    margin-bottom: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap;
+    align-content: stretch;
+  }
+
+  .footer-input::placeholder {
+    color: #b1b1b1;
+  }
+
+  .footer-input {
+    padding: 8px 24px;
+    border-radius: 2px;
+    margin-right: 10px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border: 1px solid blue;
+  }
+  
+  .navbar-icon {
+    margin-right: 0.5rem;
+    color: black;
+  }
+
+  .col {
+    margin-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 25px;
+    flex: 1;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+
+  .col1 {
+    margin-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 305px;
+    flex: 1;
+    width: 1500px;
+    height:1000px;
+    flex-basis: 100%;
+    align-items: center;
+  }
+
+  .col2 {
+    margin-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 305px;
+    padding-top: -1300px;
+    width: 1500px;
+    height:1000px;
+
+  }
+  
+  .home__hero-text-wrapper {
+    max-width: 540px;
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  
+  .top-line {
+    color:blue;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  
+  .heading {
+    margin-bottom: 24px;
+    font-size: 48px;
+    line-height: 1.1;
+    font-weight: 600;
+    color: #f7f8fa;
+  }
+  
+  .dark {
+    color: #1c2237;
+  }
+  
+  .darkBg {
+    background-color: #1c2237;
+  }
+
+  .home__hero-desc{
+    max-width: 440px;
+    padding-top: 0px;
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  
+  .home__hero-subtitle {
+    max-width: 440px;
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  
+  .home__hero-img-wrapper {
+    max-width: 555px;
+  }
+
+  .home__hero-img-wrapper1 {
+    flex-basis:100%;
+  }
+  
+  .home__hero-img {
+    max-width: 95%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: -27px;
+    padding-right: 0;
+    padding-bottom: -500px;
+  }
+  
+  img {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+  }
+  
+ 
+    .container {
+      padding-right: 30px;
+      padding-left: 30px;
+    }
+  
+  
+  
+    .home__hero-text-wrapper {
+      padding-bottom: 65px;
+    }
+  
+    .col {
+      max-width: 100%;
+      flex-basis: 100%;
+    }
+  
